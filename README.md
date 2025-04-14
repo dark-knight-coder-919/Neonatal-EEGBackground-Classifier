@@ -12,11 +12,13 @@ Example EEG recordings (in EDF format) from 4 neonates.
 Please extract ZIP files under the same name and the same directory.
 
 ## Prerequisites
-MATLAB 2019a
+MATLAB 224a
 
 *   Wavelet Toolbox
 
 *   System Identification Toolbox
+  
+*   Statistics and Machine Learning Toolbox
 
 ## References
   &nbsp;&nbsp;&nbsp;De Wel, O., Lavanga, M., Dorado, A.C., Jansen, K., Dereymaeker, A., Naulaers, G., et al. (2017). Complexity analysis of neonatal EEG using multiscale entropy: applications in brain maturation and sleep stage classification. Entropy 19(10), 516. doi: 10.3390/e19100516.  
