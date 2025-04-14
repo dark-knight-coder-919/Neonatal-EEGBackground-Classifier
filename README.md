@@ -12,7 +12,7 @@ Example EEG recordings (in EDF format) from 4 neonates.
 Please extract ZIP files under the same name and the same directory.
 
 ## Prerequisites
-MATLAB 224a
+MATLAB 2024a
 
 *   Wavelet Toolbox
 
