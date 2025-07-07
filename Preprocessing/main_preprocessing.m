@@ -16,7 +16,7 @@ clc; clearvars; close all;
 %% Initialization 
 addpath('../Utils/')
 % Get patients data
-path_patients = '../data/';
+path_patients = '../data/UCSF/';
 path_save = '../preprocessed/';
 
 % Resampling with new frequency
